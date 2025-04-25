@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "name": "Dakota Baird",
+      "email": "contrerasjoseph@hotmail.com",
+      "status": "Inactive",
+      "department": "Sales",
+      "age": 27
+    },
+    {
+      "id": 2,
+      "name": "Christine Reeves",
+      "email": "jessewallace@yahoo.com",
+      "status": "Inactive",
+      "department": "Marketing",
+      "age": 49
+    },
+    {
+      "id": 3,
+      "name": "Andrea Pineda",
+      "email": "cookjeffrey@hotmail.com",
+      "status": "Active",
+      "department": "HR",
+      "age": 38
+    },
+    {
+      "id": 4,
+      "name": "Anthony Miller",
+      "email": "laura62@davis-harris.com",
+      "status": "Active",
+      "department": "Marketing",
+      "age": 30
+    },
+    {
+      "id": 5,
+      "name": "Scott Grant",
+      "email": "nicole37@gmail.com",
+      "status": "Active",
+      "department": "Sales",
+      "age": 25
+    },
+    {
+      "id": 6,
+      "name": "Lori Stewart",
+      "email": "leetheodore@gmail.com",
+      "status": "Active",
+      "department": "Engineering",
+      "age": 36
+    },
+    {
+      "id": 7,
+      "name": "Mrs. Barbara Gonzalez",
+      "email": "timothy31@hotmail.com",
+      "status": "Inactive",
+      "department": "Sales",
+      "age": 43
+    },
+    {
+      "id": 8,
+      "name": "Roger Gilbert",
+      "email": "kjohnson@romero.com",
+      "status": "Inactive",
+      "department": "Finance",
+      "age": 38
+    },
+    {
+      "id": 9,
+      "name": "Kelly Crawford",
+      "email": "maria56@rangel.org",
+      "status": "Active",
+      "department": "Finance",
+      "age": 36
+    },
+    {
+      "id": 10,
+      "name": "Eric Edwards",
+      "email": "tdillon@hotmail.com",
+      "status": "Inactive",
+      "department": "Finance",
+      "age": 44
+    },
+    {
+      "id": 11,
+      "name": "Nathan Wall",
+      "email": "stacy22@gmail.com",
+      "status": "Active",
+      "department": "Finance",
+      "age": 49
+    },
+    {
+      "id": 12,
+      "name": "Nicole Wilkins",
+      "email": "michael19@gmail.com",
+      "status": "Inactive",
+      "department": "Finance",
+      "age": 47
+    },
+    {
+      "id": 13,
+      "name": "Eugene Bell",
+      "email": "robert07@anderson.com",
+      "status": "Active",
+      "department": "HR",
+      "age": 30
+    },
+    {
+      "id": 14,
+      "name": "Charles Phillips",
+      "email": "yjones@yahoo.com",
+      "status": "Active",
+      "department": "Finance",
+      "age": 30
+    },
+    {
+      "id": 15,
+      "name": "Joshua Palmer",
+      "email": "kimberlyjohnson@hotmail.com",
+      "status": "Inactive",
+      "department": "HR",
+      "age": 34
+    },
+    {
+      "id": 16,
+      "name": "David Bailey",
+      "email": "ewest@wu.com",
+      "status": "Active",
+      "department": "HR",
+      "age": 38
+    },
+    {
+      "id": 17,
+      "name": "Tyler Schneider",
+      "email": "benjaminochoa@roy-weeks.com",
+      "status": "Inactive",
+      "department": "HR",
+      "age": 48
+    },
+    {
+      "id": 18,
+      "name": "Lisa Sullivan",
+      "email": "nbeltran@jennings.com",
+      "status": "Inactive",
+      "department": "Marketing",
+      "age": 35
+    },
+    {
+      "id": 19,
+      "name": "Matthew Melton",
+      "email": "michelle96@brown-johnson.com",
+      "status": "Inactive",
+      "department": "Finance",
+      "age": 42
+    },
+    {
+      "id": 20,
+      "name": "Shawn Johnson",
+      "email": "carla46@yahoo.com",
+      "status": "Active",
+      "department": "Sales",
+      "age": 27
+    }
+  ]

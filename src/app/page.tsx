@@ -1,14 +1,13 @@
-import React from 'react'
+export const metadata = {
+  title: 'TiaMed IT Solutions Dashboard',
+  description: 'A modern dashboard for TiaMed IT Solutions.',
+}
 
-const page = () => {
+export default function Home() {
   return (
-    <div className='bg-indigo-900'>
-      <div>1</div>
-      <div>2</div>
-      <div>3</div>
-      <div>5</div>
+    <div>
+      <h2 className="text-3xl font-bold mb-2">Welcome to TiaMed IT Solutions!</h2>
+      <h3>We are part of Sudhanand Health Care Group to deliver IT solutions to you</h3>
     </div>
   )
 }
-
-export default page
